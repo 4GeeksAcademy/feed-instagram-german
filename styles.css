@@ -1,0 +1,66 @@
+
+.post {
+    width: 500px;
+    border: 5px solid black;
+    margin:0 auto;
+    margin-top: 5px;
+    
+}
+
+.post-header {
+display: flex;
+justify-content: space-between;
+margin-top: 10px;
+margin-left: 10px;
+}
+
+.fa-ellipsis-vertical{
+    font-size: 25px;
+    margin: 10px;
+}
+.fa-instagram{
+    font-size: 35px;
+    margin-right: 5px;
+}
+.insta-name {
+ font-size: 25px;
+ margin: auto 0;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+"wdth" 100;
+}
+.image{
+    width: 100%;
+    
+}
+.post-footer {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+.icon {
+font-size: 20px;
+margin: 2px;
+}
+
+.icon-container{
+    margin-left: 5px;
+}
+ .elipse{
+    font-size: 20px;
+    margin: 2px;
+    margin-right: 5px;
+ }
+ .caption{
+      font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+  margin-left: 5px;
+}
